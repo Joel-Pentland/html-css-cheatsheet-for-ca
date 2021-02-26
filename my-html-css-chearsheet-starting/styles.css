@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(245, 243, 243);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgb(51, 153, 73);
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid rgb(20, 116, 28);
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: rgb(160, 221, 160);
+  }
+  
+  td {
+    border-top: 1px solid rgb(20, 116, 28);
+  }
+  
